@@ -1,0 +1,15 @@
+# Production
+tensorflow==2.13.0
+scikit-learn==1.3.0
+scipy
+numpy
+Flask==2.3.2
+Keras
+boto3==1.28.25
+h5py
+
+# Development
+pandas==2.0.3
+seaborn==0.12.2
+requests
+virtualenv
